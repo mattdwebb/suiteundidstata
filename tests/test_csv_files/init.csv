@@ -1,0 +1,5 @@
+silo_name,start_time,end_time,treatment_time,covariates
+73,1989,2000,control,male
+46,1989,2000,control,male
+71,1989,2000,1991,male
+58,1989,2000,1991,male

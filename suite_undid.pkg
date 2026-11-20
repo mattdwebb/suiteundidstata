@@ -1,0 +1,8 @@
+v 3
+d Native UNDID suite adapter
+d Version 0.1.0; complete cells, never controls, strict full-rank designs
+d Author: Matthew D. Webb
+d License: MIT for new suite code; original UN-DID notices preserved
+f suite_undid.ado
+f suite_undid.sthlp
+f LICENSE-SUITE

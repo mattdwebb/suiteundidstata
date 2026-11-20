@@ -1,0 +1,8 @@
+Executed with StataNow/SE 18.5 on 19 November 2026.
+
+Estimate: 2.3919279540
+Native clustered SE: Not reported
+Mean-centered delete-school jackknife SE: 0.5239178206
+Clusters: 12; jackknife degrees of freedom: 11
+
+See school_policy.do and DATA_GUIDE.md for the exact input and command.

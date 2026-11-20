@@ -1,0 +1,15 @@
+{
+  "oracle": "undidpy",
+  "head": "5bba768c615386a27f99cf5eb53675909762f273",
+  "source_hashes": {
+    "src\\undidpy\\__init__.py": "085cd58aa15242c69c991b76951874d992a3ae2c980b0aedc017a0f18718aadd",
+    "src\\undidpy\\_inference.py": "541fe8682d74227c78b85bef54e94f7362d7b2e359fd59e0238b88a762851ff6",
+    "src\\undidpy\\_probability.py": "70c20b6b0630bdf475e16579f551bdcb7eb94d2a4d4bf803d0b4ccc66d448e7f",
+    "src\\undidpy\\api.py": "5bb983c080207410791e609ffc04fea7ad912a1e9dd65ca0d01b0456bdfb0385",
+    "src\\undidpy\\canonical_aggregation.py": "25a520f1b6d9ce5c9396fde42c742d1b37a221dbc22cf08af45de1cb6ca03318",
+    "src\\undidpy\\exact_ri.py": "1e96ad730ef261dafc111d8345476e0d72f099fc403a4af9e7ea5004289e2224",
+    "src\\undidpy\\undid.py": "7ef47387bf537672e007a5b48b51a4a2423a0ab3eda535d2a7d5e5567b7cbff0"
+  },
+  "license": "Historical Python numerical comparator; no source copied. Current comparator repository includes MIT license.",
+  "scope": "Fresh small deterministic black-box comparisons, not full certification."
+}

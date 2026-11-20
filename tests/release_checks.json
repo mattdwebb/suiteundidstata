@@ -1,0 +1,8 @@
+{
+  "tests": [
+    "tests/suite_tests.do",
+    "tests/local_source_loader.do",
+    "tests/install_smoke.do"
+  ],
+  "cwd": "."
+}
